@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 133
-- notifications: maintenance and dependency updates (2026-11-24 09:27)
+## Sprint 134
+- notifications: maintenance and dependency updates (2026-11-24 13:35)
